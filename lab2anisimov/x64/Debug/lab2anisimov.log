@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\source\repos\main\lab2anisimov\main.cpp(35,87): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\main\lab2anisimov\main.cpp(35,87): warning C4244:         with
+C:\Users\User\source\repos\main\lab2anisimov\main.cpp(35,87): warning C4244:         [
+C:\Users\User\source\repos\main\lab2anisimov\main.cpp(35,87): warning C4244:             _Rep=__int64
+C:\Users\User\source\repos\main\lab2anisimov\main.cpp(35,87): warning C4244:         ]
+  lab2anisimov.vcxproj -> C:\Users\User\source\repos\main\x64\Debug\lab2anisimov.exe
